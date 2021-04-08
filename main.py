@@ -26,7 +26,7 @@ def handle(msg):
         bot.sendMessage(chat_id, 'Texto Aqui')
 
 
-bot = telepot.Bot('1545992060:AAG1J8PGH_EmSFaviXJ_Cy97dp56yNTD1fc')  # YOUR TOKEN HERE
+bot = telepot.Bot('')  # YOUR TOKEN HERE
 bot.message_loop(handle)
 print(f'[{G}+{RT}]ON...')
 
