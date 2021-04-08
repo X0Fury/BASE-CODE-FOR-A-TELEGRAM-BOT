@@ -1,5 +1,3 @@
 requests
 telepot
 time
-telepot == 9.1
-requests == 2.11
